@@ -1,0 +1,24 @@
+div h1:hover{
+    background-color: darkmagenta;
+        }
+    
+     h3:hover{
+         background-color: darkturquoise;
+    
+     }   
+    
+    
+
+     a:active{
+         color:yellowgreen;
+      font-size: 40;
+     }
+     p::first-letter{
+         color: tomato;
+font-size: 25;
+text-transform: uppercase;
+     }
+
+     h5::selection{
+background-color:yellowgreen ;
+     }

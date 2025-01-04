@@ -1,0 +1,30 @@
+#div1{
+    color: blue;
+}
+#div2{
+    color: blueviolet;
+}
+
+#div3{
+    color: darkorchid;
+}
+#div4{
+    color: darkred;
+}
+
+div p{
+    background-color: darksalmon;
+}
+
+
+span>h1{
+    background-color: deeppink;
+}
+h1+h2{
+    background-color: gold;
+}
+p~h4{
+    background-color: gray;
+}
+
+

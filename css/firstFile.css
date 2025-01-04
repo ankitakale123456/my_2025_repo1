@@ -1,0 +1,22 @@
+/* type of css 
+ 1.inline css
+ 2.internal css
+ 3.external css  */
+ 
+  p{
+color: blueviolet;
+ } 
+ /* h1{ 
+background-color:yellow ;
+width: 300;
+ } */
+
+ .container{
+     color:blue;
+ 
+ }
+ .plan{
+     background-color: rgb(130, 238, 238);
+     width: 200;
+     color :nevy blueviolet
+    }

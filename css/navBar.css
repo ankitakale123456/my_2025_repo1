@@ -1,0 +1,22 @@
+.navbar-container{
+    background-color: lightcoral;
+    font-size: 23px;
+    padding: 16px 11px;
+     background-color: lightcoral;
+     cursor: wait;
+}
+
+div.navbar-container a{        /* new point */  
+    text-decoration: none;
+}
+
+div.main div{
+    color: rgb(20, 11, 145);
+ font-size: 33;
+ cursor: grab;
+}
+.name{
+    color:darkgreen ;
+    font-family: Arial;
+    cursor: progress;
+}

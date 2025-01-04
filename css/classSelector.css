@@ -1,0 +1,17 @@
+.class{
+    color: blueviolet;
+    background-color: chartreuse;
+    width: 200;
+
+}
+
+.address-container {
+    color: crimson;
+    background-color: cyan;
+    font-size: 40;
+    width: 216px;
+    height: 71px;
+    border: 2px solid;
+    border-radius: 83px;
+    padding: 21px;
+}

@@ -1,0 +1,50 @@
+.static{
+
+    height: 76px;
+    width: 118px;
+    border: 2px solid;
+    position: static;
+}
+.relative{
+    height: 76px;
+    width: 118px;
+    border: 2px solid;
+    position: relative;
+    bottom: 37;
+    left: 125px;
+}
+.absolute{
+    height: 76px;
+    width: 118px;
+    border: 2px solid;
+    position: absolute;
+    top: 84px;
+    left: 320px;
+}
+.sticky{
+    position:sticky ;
+ 
+    width: 1111px;
+    background-color: darkmagenta;
+  
+    border: 2px solid;
+    top: 0px;
+}
+
+.sidebar{
+    position: absolute;
+    height:500px ;
+    width: 100px;
+    border: 2px solid gray;
+    background-color: green;
+    z-index: -1;
+}
+
+
+.container {
+    top: 267px;
+    position: absolute;
+    left: 126px;
+    padding: 1px;
+z-index: -1;
+}

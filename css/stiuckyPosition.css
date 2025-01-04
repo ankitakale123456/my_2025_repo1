@@ -1,0 +1,16 @@
+.sticky{
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color:brown;
+    border: 2px solid #4CAF50;
+  }
+
+  .fixposiotion{
+      width: 1400;
+      height: 30;
+      background-color :blueviolet;
+      border: 2px solid blue;
+      position: fixed;
+      bottom: 0px;
+  }

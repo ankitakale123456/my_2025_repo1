@@ -1,0 +1,25 @@
+.display{
+    display: none;
+}
+
+.display1{
+display: inline;
+background-color: aqua;
+}
+.display2{
+    display: block;
+    background-color: chartreuse;
+    width: 90;
+}
+
+
+.display3{
+    background-color: chartreuse;
+    width: 90;
+    display: inline-block;
+}
+
+.newspaper{
+
+    column-count: 4;
+}

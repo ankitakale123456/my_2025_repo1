@@ -1,0 +1,27 @@
+.img-index{
+    height: 300px;
+    width: 300px;
+}
+
+
+.text {
+    top: 223px;
+    height: 100;
+    width: 300;
+    border: 2 solid black;
+    z-index: 1;
+    position: absolute;
+    left: 11px;
+    color: aqua;
+}
+.float-index{
+    float: left;
+    height: 108px;
+    width: 179px;
+
+}
+.float-right{
+    float:right ;
+    height: 108px;
+    width: 179px;
+}

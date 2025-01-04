@@ -1,0 +1,120 @@
+
+.background-img{
+    background-size: cover;
+    background-image: url(E:/htmlBatch/css/Jellyfish.jpg);
+    height: 100%;
+    width: 100%;
+    opacity: 9.7;
+}
+.navbar{
+    background-color: lightgreen;
+    overflow: hidden;
+}
+.anchor{
+    text-decoration: none;
+    color: blue;
+    font-size: 30px;
+    float: left;
+    padding: 1 9px;
+}
+.dropdownbutton{
+    border: 0px;
+    font-size: 22px;
+    background-color: aquamarine;
+    position: relative;
+    top: 2px;
+    left: 25px;
+    padding: 4px 1pc;
+}
+.dropdown-content{
+    position: absolute;
+    background-color: aqua;
+    width: 131px;
+ display: none;
+ left: 288px;
+ top: 44px;
+}
+.dropdown-content a{
+    text-align: center;
+    /* left: unset; */
+    display: block;
+    text-decoration: none;
+    font-size: 24px;
+}
+.dropdown{
+    float: left;
+}
+.dropdown:hover  .dropdown-content {
+    display: block;
+}
+.dropdown-content a:hover{
+    background-color:  darkgreen;
+}
+.navbar a:hover{
+    background-color: darkgreen;
+}
+.dropdown .dropdownbutton:hover{
+    background-color: darkgreen; 
+}
+
+.registationbutton{
+    background-color: turquoise;
+    /* border: 1px blueviolet; */
+    font-size: 17;
+    width: 101px;
+    position: absolute;
+    top: 13px;
+    left: 1210px;
+}
+.Registation-content{
+    display: none;
+    background: turquoise;
+    width: 100;
+    position: absolute;
+    top: 40px;
+    left: 1210px;
+  
+}
+.Registation-content a{
+    padding: 3px;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+ 
+}
+.Registation:hover .Registation-content{
+    display: block;
+}
+.registationbutton:hover {
+    background-color: chartreuse;
+}
+.Registation-content a:hover{
+    background-color: chartreuse;
+}
+.form_container{
+    text-align: center;
+    color:lawngreen;
+    font-size: 30;
+    background-color:lightgrey;
+    width: 525px;
+    height: 417px;
+    position: relative;     
+    left: 456px;
+    background-image: url(E:/htmlBatch/css/Jellyfish.jpg);
+    background-size: cover;
+}
+.btn-container{
+    background-color: lightgreen;
+    font-size: 26px;
+    padding: 4px 11px;
+    border-radius: 1;
+}
+.form-img{
+    width: 197px;
+    height: 198px;
+    position: absolute;
+    top: 300px;
+    opacity: 0.7;
+    right: 944px;
+}
+

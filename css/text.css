@@ -1,0 +1,84 @@
+.text-align{
+ border: 1px solid black;
+width: 300;
+text-align: center;
+margin-left: 150;
+margin-top: 50;
+
+
+/* margin-left: and margin-top: work togheter
+and margin -right and margin-bottom:  work togheter; */
+}
+.text-shadow{
+    text-shadow: 8px -4px 2px darkgreen;
+    font-size: 70px;
+    color: azure;
+}
+.textbox{
+    height: 100;
+    width: 100;
+    box-shadow:5px 4px 9px indigo;
+    border: black;
+    background-color:lightslategrey;
+}
+
+.text-tranf{
+    text-transform: capitalize;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.indent{
+    text-indent:50;
+}
+.latterspacing{
+    letter-spacing: 6px;
+}
+
+.wordspacing{
+    word-spacing: 19px;
+}
+.textoverflow{
+    width: 30;
+  border: 1px solid black;
+  overflow: hidden;
+  text-overflow: ellipsis;     /* clip */
+}
+.textscroll{
+    width: 200;
+    height: 200;
+    overflow: scroll;
+}
+.overflowauto1{
+    width: 200;
+    height: 100;
+    overflow: auto;
+}
+.overflowauto{
+    width: 1500;
+    /* height: 50; */
+    overflow: auto;
+}
+.overflowx{
+    overflow-x: scroll;
+    overflow-y:unset;
+}
+
+.overflowy{
+    overflow-x: unset;
+    overflow-y:scroll;
+    width: 200;
+}
+
+.word-wrap{
+    width: 200px;
+    height: 250;
+background-color: rgb(77, 48, 4);
+border:2px rgb(255, 0, 119);
+
+word-wrap: break-word;}
+
+

@@ -1,0 +1,13 @@
+.table-container{
+border: 1px solid orange;
+border-collapse: collapse;
+padding: 5px;
+background-color: greenyellow;
+
+}
+th,td,tr,table{             /*   grouping of element selector */
+    border: 1px solid green;
+    border-collapse: collapse;
+    padding: 5px;
+ 
+}
